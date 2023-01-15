@@ -11,5 +11,7 @@
 	- **ESP12-16R-D05** - https://pajenicko.cz/vyvojova-deska-esp-12f-s-16-rele-esp12-16r-d05-5v
 	- **ESP12-16R-D12** - https://pajenicko.cz/vyvojova-deska-esp-12f-s-16-rele-esp12-16r-d12-12v
 	- **ESP12-16R-D24** - https://pajenicko.cz/vyvojova-deska-esp-12f-s-16-rele-esp12-16r-d24-24v
+# Tasmota
+https://templates.blakadder.com/ESP12F_Relay_X16.html
 
 ![Náhled desky](board-picture.jpg)
